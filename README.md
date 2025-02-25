@@ -44,4 +44,6 @@ Diseña un modelo de datos en Scala + Spark para una tienda en línea que maneja
 1. Crea DataFrames para cada entidad.
 2. Realiza una unión entre Órdenes y Clientes para ver qué clientes compraron qué productos.
 3. Calcula el total gastado por cada cliente.
+
+
 [Ejercicio](src/main/scala/test-modelado.scala)
